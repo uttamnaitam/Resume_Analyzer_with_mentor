@@ -209,7 +209,7 @@ export default function Home() {
             <div className="order-2 md:order-1 relative">
               <div className="absolute -top-6 -left-6 -right-6 -bottom-6 bg-gradient-to-r from-indigo-200 to-purple-200 rounded-xl -z-10 blur-sm"></div>
               <img
-                src="/images/Home_page_images/Get_Detailed_Feedback_image.jpg"
+                 src="/images/Home_page_images/Get_detailed_feedback_image.jpg"
                 alt="AI Analysis Dashboard"
                 className="rounded-xl shadow-lg w-full border-8 border-white"
               />
